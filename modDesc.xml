@@ -1,197 +1,198 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<modDesc descVersion="47">
+<modDesc descVersion="53">
     <author>Edge Gaming</author>
     <translationsby>Castiga</translationsby>
     <version>1.0.0.0</version>
     <title><!-- en=English de=German jp=Japanese pl=Polish cz=Czech fr=French es=Spanish ru=Russian it=Italian pt=Portuguese hu=Hungary nl=Netherlands cs=Chinese (Simplified) ct=Chinese (Traditional) br=Brazilian-Portuguese tr=Turkish ro=Romanian kr=Korean -->
-        <en>EDGE Sign</en>
-        <de>EDGE Sign</de>
-        <fr>EDGE Sign</fr>
-        <es>EDGE Sign</es>
-        <ru>EDGE Sign</ru>
-        <pl>EDGE Sign</pl>
-        <it>EDGE Sign</it>
+        <en>Gas Station Mod</en>
+        <de>Tankstelle Mod</de>
+        <fr>Station-service Mod</fr>
+        <es>Mod de gasolinera</es>
+        <ru>Мод АЗС</ru>
+        <pl>Stacja benzynowa Mod</pl>
+        <it>Stazione di servizio Mod</it>
     </title>
     <description>
-        <en><![CDATA[This Repository is a Template Repo for our FS 19 mods. It includes the necessary files for an FS19 mod.
+        <en><![CDATA[Yet another Fuel Pump for your farm. with underground Tank. You pay a 5% fee for delivery of fuel. Water can also be gotten here, and its free!
 
--All buildings have automatic lighting.
--All Buildings supports "Seasons" and "Courseplay Six".
--All Buildings have FillTypeCategories: Farmsilo (to Support Custom Fruits)
+-The building have automatic lighting.
+-The Building supports "Seasons" and "Courseplay Six".
 
 --Technical Info--
 
-Small Grain Silo:
-Price: 110.000€
-Upkeep: 45€ Daily.
-Size: 14 x 15 Meters.
-Capacity: 100.000 Litre.
-Overloading Speed 2000 Liters Per Second.
+EDGE Fuel Pump:
+Price: 5.000€
+Upkeep: 5€ Daily.
+Size: 2.5 x 5 Meters.
+FillTypes: Water, Diesel.
+Overloading Speed: Diesel 50 Liters Per Second, Water 500 Liters Per Second.
 
--Supports "Seasons", "Courseplay Six" & "MaizePlus".
+-Supports "Seasons" & "Courseplay Six".
 
--If you find any bugs or got suggestions for improvment, please dont hesitate to contact us on our Github page at https://github.com/FS19-Mods-By-EDGE/
-or Contact EDGEPureGaming on facebook.
+-If you find any bugs or got suggestions for improvment, please dont hesitate to contact us on our Github page at https://github.com/FS19-Mods-By-EDGE/]]></en>
 
-Changelog 1.0.0.0:
-- Initial Realease.]]></en>
+<de><![CDATA[Noch eine Kraftstoffpumpe für Ihre Farm. mit unterirdischem Tank. Sie zahlen eine Gebühr von 5% für die Lieferung von Kraftstoff. Wasser kann auch hier bekommen werden und es ist kostenlos!
 
-<de><![CDATA[Einige Silos für die Lagerung von Korn. Das Paket enthält vier Hofsilos und 6 Siloerweiterungen.
-
--Alle Gebäude verfügen über eine automatische Beleuchtung.
--Alle Gebäude unterstützen "Seasons" und "Courseplay Six".
--Alle Gebäude haben FillTypeCategories: Farmsilo (zur Unterstützung benutzerdefinierter Früchte)
+-Das Gebäude verfügt über eine automatische Beleuchtung.
+-Das Gebäude unterstützt "Seasons" und "Courseplay Six".
 
 --Technische Information--
 
-Kleines Getreidesilo:
-Preis: 110.000 €
-Unterhalt: 45 € Täglich.
-Größe: 14 x 15 Meter.
-Fassungsvermögen: 100.000 Liter.
-Überladegeschwindigkeit 2000 Liter pro Sekunde.
+EDGE Kraftstoffpumpe:
+Preis: 5.000 €
+Unterhalt: 5 € täglich.
+Größe: 2,5 x 5 Meter.
+Fülltypen: Wasser, Diesel.
+Überladegeschwindigkeit: Diesel 50 Liter pro Sekunde, Wasser 500 Liter pro Sekunde.
 
--Unterstützt "Seasons", "Courseplay Six" und "MaizePlus".
+-Unterstützt "Seasons" und "Courseplay Six" .
 
--Wenn Sie Fehler finden oder Verbesserungsvorschläge haben, zögern Sie bitte nicht, uns auf unserer Github-Seite unter https://github.com/FS19-Mods-By-EDGE/
-zu kontaktieren oder EDGEPureGaming auf Facebook zu kontaktieren.
+-Wenn Sie Fehler finden oder Verbesserungsvorschläge haben, zögern Sie bitte nicht, uns auf unserer Github-Seite unter https://github.com/FS19-Mods-By-EDGE/]]></de>
 
-Änderungsprotokoll 1.0.0.0:
-- Erstveröffentlichung.]]></de>
+        <fr><![CDATA[Encore une autre pompe à carburant pour votre ferme. avec réservoir souterrain. Vous payez des frais de 5% pour la livraison de carburant. L'eau peut également être obtenue ici, et c'est gratuit!
 
-        <fr><![CDATA[Quelques silos pour stocker votre Grain. Le pack contient 4 silos de ferme et 6 extensions de silo.
-
--Tous les bâtiments ont un éclairage automatique.
--Tous les bâtiments prennent en charge "Seasons" et "Courseplay Six".
--Tous les bâtiments ont FillTypeCategories: Farmsilo (pour prendre en charge les fruits personnalisés)
+-Le bâtiment dispose d'un éclairage automatique.
+-Le bâtiment prend en charge "Seasons" et "Courseplay Six".
 
 --Info technique--
 
-Silo à petits grains:
-Prix: 110.000 €
-Entretien: 45 € par jour.
-Taille: 14 x 15 mètres.
-Capacité: 100.000 litres.
-Vitesse de surcharge 2000 litres par seconde.
+Pompe à carburant EDGE:
+Prix: 5.000 €
+Entretien: 5 € par jour.
+Taille: 2,5 x 5 mètres.
+Types de remplissage: eau, diesel.
+Vitesse de surcharge: Diesel 50 litres par seconde, eau 500 litres par seconde.
 
--Supporte "Seasons", "Courseplay Six" & "MaizePlus".
+-Supporte "Seasons" & "Courseplay Six" .
 
--Si vous trouvez des bugs ou avez des suggestions d'amélioration, n'hésitez pas à nous contacter sur notre page Github à https://github.com/FS19-Mods-By-EDGE/
-ou Contacter EDGEPureGaming sur facebook.
+-Si vous trouvez des bugs ou avez des suggestions d'amélioration, n'hésitez pas à nous contacter sur notre page Github à https://github.com/FS19-Mods-By-EDGE/]]></fr>
 
-Changer le journal 1.0.0.0:
-- Première version.]]></fr>
+        <es><![CDATA[Otra bomba de combustible más para su granja. con tanque subterráneo. Paga una tarifa del 5% por la entrega de combustible. Aquí también se puede conseguir agua, ¡y es gratis!
 
-        <es><![CDATA[Algunos silos para almacenar tu grano. El paquete contiene 4 silos de granja y 6 extensiones de silo.
-
--Todos los edificios tienen iluminación automática.
--Todos los edificios son compatibles con "Seasons" y "Courseplay Six".
--Todos los edificios tienen FillTypeCategories: Farmsilo (para admitir frutas personalizadas)
+-El edificio tiene iluminación automática.
+-El edificio admite "Seasons" y "Courseplay Six".
 
 --Información técnica--
 
-Silo de grano pequeño:
-Precio: 110.000 €
-Mantenimiento: 45 € diarios.
-Tamaño: 14 x 15 metros.
-Capacidad: 100.000 litros.
-Velocidad de sobrecarga de 2000 litros por segundo.
+Bomba de combustible EDGE:
+Precio: 5.000 €
+Mantenimiento: 5 € diario.
+Tamaño: 2,5 x 5 metros.
+FillTypes: agua, diesel.
+Velocidad de sobrecarga: Diesel 50 litros por segundo, agua 500 litros por segundo.
 
--Soporta "Seasons", "Courseplay Six" y "MaizePlus".
+-Soporta "Seasons" y "Courseplay Six".
 
--Si encuentra algún error u obtiene sugerencias de mejora, no dude en contactarnos en nuestra página de Github en https://github.com/FS19-Mods-By-EDGE/
-o póngase en contacto con EDGEPureGaming en Facebook.
+-Si encuentra algún error u obtiene sugerencias de mejora, no dude en contactarnos en nuestra página de Github en https://github.com/FS19-Mods-By-EDGE/]]></es>
 
-Registro de cambios 1.0.0.0:
-- Versión inicial.]]></es>
+        <ru><![CDATA[Еще один топливный насос для вашей фермы. с подземным резервуаром. Вы платите 5% комиссию за доставку топлива. Воду тоже можно достать, причем бесплатно!
 
-        <ru><![CDATA[Некоторые бункеры для хранения вашего зерна. Пакет содержит 4 бункера фермы и 6 расширений бункера.
-
--Все здания имеют автоматическое освещение.
--Все здания поддерживают "Seasons" и "Courseplay Six".
--Все здания имеют FillTypeCategories: Farmsilo (для поддержки пользовательских фруктов)
+-В здании автоматическое освещение.
+- Здание поддерживает «Времена года» и «Шесть курсов».
 
 --Техническая информация--
 
-Бункер для мелкого зерна:
-Цена: 110.000 €
-Содержание: 45 € в день.
-Размер: 14 х 15 метров.
-Вместимость: 100.000 л.
-Скорость перегрузки 2000 литров в секунду.
+Топливный насос EDGE:
+Стоимость: 5.000 €
+Содержание: 5 евро в день.
+Размер: 2,5 х 5 метров.
+Типы заливки: Вода, Дизель.
+Скорость перегрузки: дизельное топливо 50 литров в секунду, вода 500 литров в секунду.
 
--Поддержка "Seasons", "Courseplay Six" и "MaizePlus".
+-Поддержка "Seasons" и "Courseplay Six".
 
--Если вы обнаружите какие-либо ошибки или получите предложения по улучшению, пожалуйста, не стесняйтесь связаться с нами на нашей странице Github по адресу https://github.com/FS19-Mods-By-EDGE/
-или связаться с EDGEPureGaming на Facebook.
+-Если вы обнаружите какие-либо ошибки или получите предложения по улучшению, пожалуйста, не стесняйтесь связаться с нами на нашей странице Github по адресу https://github.com/FS19-Mods-By-EDGE/]]></ru>
 
-Изменения 1.0.0.0:
-- Первый выпуск.]]></ru>
+        <pl><![CDATA[Kolejna pompa paliwowa dla Twojego gospodarstwa. z podziemnym zbiornikiem. Za dostawę paliwa płacisz 5% opłaty. Można tu również dostać wodę i jest za darmo!
 
-        <pl><![CDATA[Niektóre silosy do przechowywania zboża. Pakiet zawiera 4 silosy rolnicze i 6 przedłużeń silosów.
-
--Wszystkie budynki mają automatyczne oświetlenie.
--Wszystkie budynki obsługują „Pory roku” i „Courseplay Six”.
--Wszystkie budynki mają FillTypeCategory: Farmsilo (do obsługi niestandardowych owoców)
+-Budynek posiada automatyczne oświetlenie.
+-The Budynek obsługuje „Seasons” i „Courseplay Six”.
 
 --Informacje techniczne--
 
-Silos o małych ziarnach:
-Cena: 110.000 €
-Utrzymanie: 45 € dziennie.
-Rozmiar: 14 x 15 metrów.
-Pojemność: 100 000 litrów.
-Prędkość przeciążenia 2000 litrów na sekundę.
+EDGE Pompa paliwa:
+Cena: 5.000 €
+Koszt utrzymania: 5 € dziennie.
+Rozmiar: 2,5 x 5 metrów.
+Typy wypełnień: woda, olej napędowy.
+Prędkość przeładowania: olej napędowy 50 litrów na sekundę, woda 500 litrów na sekundę.
 
--Obsługuje „Seasons”, „Courseplay Six” i „MaizePlus”.
+-Obsługuje „Seasons” i „Courseplay Six”.
 
--Jeśli znajdziesz jakieś błędy lub masz sugestie dotyczące ulepszeń, nie wahaj się skontaktować z nami na naszej stronie Github pod adresem https://github.com/FS19-Mods-By-EDGE/
-lub Skontaktuj się z EDGEPureGaming na Facebooku.
+-Jeśli znajdziesz jakieś błędy lub masz sugestie dotyczące ulepszeń, nie wahaj się skontaktować z nami na naszej stronie Github pod adresem https://github.com/FS19-Mods-By-EDGE/]]></pl>
+        <it><![CDATA[Ancora un'altra pompa del carburante per la tua fattoria. con cisterna interrata. Paghi una commissione del 5% per la consegna del carburante. L'acqua può anche essere presa qui ed è gratis!
 
-Lista zmian 1.0.0.0:
-- Pierwsze wydanie.]]></pl>
-        <it><![CDATA[Alcuni silos per conservare il grano. Il pacchetto contiene 4 silos agricoli e 6 estensioni per silo.
-
--Tutti gli edifici hanno l'illuminazione automatica.
--Tutti gli edifici supportano "Seasons" e "Courseplay Six".
--Tutti gli edifici hanno FillTypeCategories: Farmsilo (per supportare la frutta personalizzata)
+-L'edificio dispone di illuminazione automatica.
+-L'edificio supporta "Seasons" e "Courseplay Six".
 
 --Informazioni tecniche--
 
-Silo per cereali piccoli:
-Prezzo: 110.000 €
-Manutenzione: 45 € al giorno.
-Dimensioni: 14 x 15 metri.
-Capacità: 100.000 litri.
-Velocità di sovraccarico 2000 litri al secondo.
+Pompa carburante EDGE:
+Prezzo: 5.000 €
+Manutenzione: 5 € al giorno.
+Dimensioni: 2,5 x 5 metri.
+Tipi di riempimento: acqua, gasolio.
+Velocità di sovraccarico: diesel 50 litri al secondo, acqua 500 litri al secondo.
 
--Supporta "Stagioni", "Courseplay Six" e "MaizePlus".
+-Supporta "Stagioni" e "Courseplay Six".
 
--Se trovi qualche bug o hai suggerimenti per l'improvvisazione, non esitare a contattarci sulla nostra pagina Github all'indirizzo https://github.com/FS19-Mods-By-EDGE/
-o Contatta EDGEPureGaming su Facebook.
-
-Elenco modifiche 1.0.0.0:
-- Realease iniziale.]]></it>
+-Se trovi qualche bug o hai suggerimenti per l'improvvisazione, non esitare a contattarci sulla nostra pagina Github all'indirizzo https://github.com/FS19-Mods-By-EDGE/]]></it>
 	</description>
-    <iconFilename>EdgeSign_Icon.dds</iconFilename>
+    <iconFilename>GasStationMod_Icon.dds</iconFilename>
     <multiplayer supported="true"/>
     <storeItems>
-        <storeItem xmlFilename="data/EdgeSign.xml"/>
+        <storeItem rootNode="placeable" xmlFilename="data/GasStationMod.xml"/>
     </storeItems>
-	<l10n filenamePrefix="modDesc/modDesc_l10n"/>
     <brands>
         <brand name="EDGE" title="EDGE Industries" image="store/EDGE_Brand_Logo.dds"/>
     </brands>
-    <!-- <l10n>
-        <text name="name_MultiSellingStation">
-            <en>Multi Selling Station</en>
-            <de>Multi Verkaufsstation</de>
-            <fr>Poste De Vente Multiple</fr>
-            <es>Estación De Venta Múltiple</es>
-            <ru>Мультипродажная станция</ru>
-            <pl>Stacja Sprzedaży</pl>
+    <l10n>
+        <text name="action_turnOnMarking">
+            <en>Show warning Stripes</en>
+            <de>Eckmarkierungen einblenden</de>
+            <fr>Afficher les rayures d'avertissement</fr>
+            <es>Mostrar franjas de advertencia</es>
+            <ru>Показать предупреждение полосы</ru>
+            <pl>Pokaż paski ostrzegawcze</pl>
+            <it>Mostra strisce di avviso</it>
         </text>
-    </l10n> -->
+        <text name="action_turnOffMarking">
+            <en>Hide warning Stripes</en>
+            <de>Eckmarkierungen ausblenden</de>
+            <fr>Masquer les bandes d'avertissement</fr>
+            <es>Ocultar rayas de advertencia</es>
+            <ru>Скрыть предупреждение полосы</ru>
+            <pl>Ukryj paski ostrzegawcze</pl>
+            <it>Nascondi le strisce di avvertimento</it>
+        </text>
+        <text name="function_EDGELights">
+            <en>This Building have Automatic Lighting.</en>
+            <de>Dieses Gebäude verfügt über eine automatische Beleuchtung.</de>
+            <fr>Ce bâtiment a l'éclairage automatique.</fr>
+            <es>Este edificio tiene iluminación automática.</es>
+            <ru>Это здание имеет автоматическое освещение.</ru>
+            <pl>Ten budynek ma automatyczne oświetlenie.</pl>
+            <it>Questo edificio ha l'illuminazione automatica.</it>
+        </text>
+        <text name="EDGENitro">
+            <en>EDGE Nitro +</en>
+        </text>
+        <text name="name_EDGENitro">
+            <en>EDGE Nitro Plus</en>
+        </text>
+        <text name="name_EDGENitroFull">
+            <en>EDGE Mobil Nitro</en>
+        </text>
+        <text name="name_GasStationMod">
+            <en>Fuel Pump</en>
+            <de>Benzinpumpe</de>
+            <fr>pompe à carburant</fr>
+            <es>bomba de combustible</es>
+            <ru>топливный насос</ru>
+            <pl>pompa paliwowa</pl>
+            <it>pompa di benzina</it>
+        </text>
+    </l10n>
     <credits><![CDATA[
 ## Contributors
 - Castiga, EDGE Gaming
