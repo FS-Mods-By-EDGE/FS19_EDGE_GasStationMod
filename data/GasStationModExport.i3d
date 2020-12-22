@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<i3D name="GasStationMod" version="1.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://i3d.giants.ch/schema/i3d-1.6.xsd">
+  <Asset>
+    <Export program="GIANTS Editor 64bit" version="8.2.2"/>
+  </Asset>
+
+  <Files>
+    <File fileId="3" filename="textures/gasStation_diffuse.dds"/>
+  </Files>
+
+
+  <Materials>
+    <Material name="Aluminum_Screws" materialId="9" specularColor="0.498039 1 0.498039">
+    </Material>
+    <Material name="Back_Rubber_Handle" materialId="12" diffuseColor="0.0627451 0.0588235 0.0627451 1" specularColor="0.298039 1 0.298039">
+    </Material>
+    <Material name="black_metal" materialId="20" diffuseColor="0.160784 0.160784 0.160784 1" specularColor="0.537255 1 0.537255">
+    </Material>
+    <Material name="Black_Plastic" materialId="13" diffuseColor="0.0313726 0.0313726 0.0313726 1" specularColor="0.0980392 1 0.0980392">
+    </Material>
+    <Material name="Brochure" materialId="19" specularColor="0.247059 1 0.247059">
+    </Material>
+    <Material name="Clear_Acrylic" materialId="18" diffuseColor="0.784314 0.784314 0.784314 1" specularColor="0.298039 1 0.298039">
+    </Material>
+    <Material name="Concrete" materialId="6" specularColor="0.133333 1 0.133333">
+    </Material>
+    <Material name="Default" materialId="11" diffuseColor="0.784314 0.784314 0.784314 1">
+    </Material>
+    <Material name="gasStation_mat" materialId="21">
+      <Texture fileId="3"/>
+    </Material>
+    <Material name="gray_metal" materialId="14" diffuseColor="0.47451 0.47451 0.47451 1">
+    </Material>
+    <Material name="Green_Rubber" materialId="15" diffuseColor="0.258824 0.513726 0.32549 1" specularColor="0.298039 1 0.298039">
+    </Material>
+    <Material name="Grey_Black_Plastic" materialId="7" diffuseColor="0.184314 0.184314 0.184314 1" specularColor="0.0980392 1 0.0980392">
+    </Material>
+    <Material name="Number_Pad" materialId="17" specularColor="0.2 1 0.2">
+    </Material>
+    <Material name="Painted_Grey_Concrete_Edge" materialId="4" specularColor="0.0980392 1 0.0980392">
+    </Material>
+    <Material name="Painted_White_Concrete_Edge" materialId="5" diffuseColor="0.945098 0.945098 0.941177 1" specularColor="0.0980392 1 0.0980392">
+    </Material>
+    <Material name="Shell_White_Metal" materialId="8" diffuseColor="0.894118 0.894118 0.894118 1" specularColor="0.0980392 1 0.0980392">
+    </Material>
+    <Material name="Shell_White_Plastic_Gloss" materialId="16" diffuseColor="0.945098 0.945098 0.941177 1" specularColor="0.2 1 0.2">
+    </Material>
+    <Material name="Standard_White_Vinyl" materialId="10" diffuseColor="0.792157 0.796079 0.792157 1" specularColor="0.0980392 1 0.0980392">
+    </Material>
+  </Materials>
+
+
+  <Shapes externalShapesFile="GasStationModExport.i3d.shapes">
+  </Shapes>
+
+
+  <Dynamics>
+  </Dynamics>
+
+  <Scene>
+    <Shape shapeId="1" name="polySurface1" static="true" nodeId="29" materialIds="8,4,21" castsShadows="true" receiveShadows="true"/>
+    <Shape shapeId="2" name="polySurface3" rotation="-90 -0 0" scale="2.54 2.54 2.54" static="true" nodeId="28" materialIds="4,5,6,7,8,4,4,4,4,9,4,9,9,4,10,5,4,4,11,9,12,13,9,14,15,4,4,4,4,4,16,4,4,4,4,4,4,17,4,4,18,19,19,20" castsShadows="true" receiveShadows="true"/>
+  </Scene>
+
+</i3D>
