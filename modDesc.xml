@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <modDesc descVersion="53">
     <author>Edge Gaming</author>
-    <translationsby>Castiga</translationsby>
     <version>1.0.0.0</version>
     <title><!-- en=English de=German jp=Japanese pl=Polish cz=Czech fr=French es=Spanish ru=Russian it=Italian pt=Portuguese hu=Hungary nl=Netherlands cs=Chinese (Simplified) ct=Chinese (Traditional) br=Brazilian-Portuguese tr=Turkish ro=Romanian kr=Korean -->
         <en>Gas Station Mod</en>
@@ -13,10 +12,10 @@
         <it>Stazione di servizio Mod</it>
     </title>
     <description>
-        <en><![CDATA[Yet another Fuel Pump for your farm. with underground Tank. You pay a 5% fee for delivery of fuel. Water can also be gotten here, and its free!
+        <en><![CDATA[A Stylish and sleek fuel punp for your farm, with underground Tank. You pay a 5% fee for delivery of fuel, upon purchase.
+Its also connected to water so no more driving into rivers and lakes to fill up your water tanks. Water you get here also is free!!
 
 -The building have automatic lighting.
--The Building supports "Seasons" and "Courseplay Six".
 
 --Technical Info--
 
@@ -24,8 +23,8 @@ EDGE Fuel Pump:
 Price: 5.000€
 Upkeep: 5€ Daily.
 Size: 2.5 x 5 Meters.
-FillTypes: Water, Diesel.
-Overloading Speed: Diesel 50 Liters Per Second, Water 500 Liters Per Second.
+FillTypes: Water, Diesel, Def.
+Overloading Speed: Diesel 75 Liters Per Second, Water 500 Liters Per Second.
 
 -Supports "Seasons" & "Courseplay Six".
 
@@ -34,7 +33,6 @@ Overloading Speed: Diesel 50 Liters Per Second, Water 500 Liters Per Second.
 <de><![CDATA[Noch eine Kraftstoffpumpe für Ihre Farm. mit unterirdischem Tank. Sie zahlen eine Gebühr von 5% für die Lieferung von Kraftstoff. Wasser kann auch hier bekommen werden und es ist kostenlos!
 
 -Das Gebäude verfügt über eine automatische Beleuchtung.
--Das Gebäude unterstützt "Seasons" und "Courseplay Six".
 
 --Technische Information--
 
@@ -43,7 +41,7 @@ Preis: 5.000 €
 Unterhalt: 5 € täglich.
 Größe: 2,5 x 5 Meter.
 Fülltypen: Wasser, Diesel.
-Überladegeschwindigkeit: Diesel 50 Liter pro Sekunde, Wasser 500 Liter pro Sekunde.
+Überladegeschwindigkeit: Diesel 75 Liter pro Sekunde, Wasser 500 Liter pro Sekunde.
 
 -Unterstützt "Seasons" und "Courseplay Six" .
 
@@ -52,7 +50,6 @@ Fülltypen: Wasser, Diesel.
         <fr><![CDATA[Encore une autre pompe à carburant pour votre ferme. avec réservoir souterrain. Vous payez des frais de 5% pour la livraison de carburant. L'eau peut également être obtenue ici, et c'est gratuit!
 
 -Le bâtiment dispose d'un éclairage automatique.
--Le bâtiment prend en charge "Seasons" et "Courseplay Six".
 
 --Info technique--
 
@@ -61,7 +58,7 @@ Prix: 5.000 €
 Entretien: 5 € par jour.
 Taille: 2,5 x 5 mètres.
 Types de remplissage: eau, diesel.
-Vitesse de surcharge: Diesel 50 litres par seconde, eau 500 litres par seconde.
+Vitesse de surcharge: Diesel 75 litres par seconde, eau 500 litres par seconde.
 
 -Supporte "Seasons" & "Courseplay Six" .
 
@@ -70,7 +67,6 @@ Vitesse de surcharge: Diesel 50 litres par seconde, eau 500 litres par seconde.
         <es><![CDATA[Otra bomba de combustible más para su granja. con tanque subterráneo. Paga una tarifa del 5% por la entrega de combustible. Aquí también se puede conseguir agua, ¡y es gratis!
 
 -El edificio tiene iluminación automática.
--El edificio admite "Seasons" y "Courseplay Six".
 
 --Información técnica--
 
@@ -79,7 +75,7 @@ Precio: 5.000 €
 Mantenimiento: 5 € diario.
 Tamaño: 2,5 x 5 metros.
 FillTypes: agua, diesel.
-Velocidad de sobrecarga: Diesel 50 litros por segundo, agua 500 litros por segundo.
+Velocidad de sobrecarga: Diesel 75 litros por segundo, agua 500 litros por segundo.
 
 -Soporta "Seasons" y "Courseplay Six".
 
@@ -88,7 +84,6 @@ Velocidad de sobrecarga: Diesel 50 litros por segundo, agua 500 litros por segun
         <ru><![CDATA[Еще один топливный насос для вашей фермы. с подземным резервуаром. Вы платите 5% комиссию за доставку топлива. Воду тоже можно достать, причем бесплатно!
 
 -В здании автоматическое освещение.
-- Здание поддерживает «Времена года» и «Шесть курсов».
 
 --Техническая информация--
 
@@ -97,7 +92,7 @@ Velocidad de sobrecarga: Diesel 50 litros por segundo, agua 500 litros por segun
 Содержание: 5 евро в день.
 Размер: 2,5 х 5 метров.
 Типы заливки: Вода, Дизель.
-Скорость перегрузки: дизельное топливо 50 литров в секунду, вода 500 литров в секунду.
+Скорость перегрузки: дизельное топливо 75 литров в секунду, вода 500 литров в секунду.
 
 -Поддержка "Seasons" и "Courseplay Six".
 
@@ -106,7 +101,6 @@ Velocidad de sobrecarga: Diesel 50 litros por segundo, agua 500 litros por segun
         <pl><![CDATA[Kolejna pompa paliwowa dla Twojego gospodarstwa. z podziemnym zbiornikiem. Za dostawę paliwa płacisz 5% opłaty. Można tu również dostać wodę i jest za darmo!
 
 -Budynek posiada automatyczne oświetlenie.
--The Budynek obsługuje „Seasons” i „Courseplay Six”.
 
 --Informacje techniczne--
 
@@ -115,7 +109,7 @@ Cena: 5.000 €
 Koszt utrzymania: 5 € dziennie.
 Rozmiar: 2,5 x 5 metrów.
 Typy wypełnień: woda, olej napędowy.
-Prędkość przeładowania: olej napędowy 50 litrów na sekundę, woda 500 litrów na sekundę.
+Prędkość przeładowania: olej napędowy 75 litrów na sekundę, woda 500 litrów na sekundę.
 
 -Obsługuje „Seasons” i „Courseplay Six”.
 
@@ -123,7 +117,6 @@ Prędkość przeładowania: olej napędowy 50 litrów na sekundę, woda 500 litr
         <it><![CDATA[Ancora un'altra pompa del carburante per la tua fattoria. con cisterna interrata. Paghi una commissione del 5% per la consegna del carburante. L'acqua può anche essere presa qui ed è gratis!
 
 -L'edificio dispone di illuminazione automatica.
--L'edificio supporta "Seasons" e "Courseplay Six".
 
 --Informazioni tecniche--
 
@@ -132,7 +125,7 @@ Prezzo: 5.000 €
 Manutenzione: 5 € al giorno.
 Dimensioni: 2,5 x 5 metri.
 Tipi di riempimento: acqua, gasolio.
-Velocità di sovraccarico: diesel 50 litri al secondo, acqua 500 litri al secondo.
+Velocità di sovraccarico: diesel 75 litri al secondo, acqua 500 litri al secondo.
 
 -Supporta "Stagioni" e "Courseplay Six".
 
@@ -199,5 +192,5 @@ Velocità di sovraccarico: diesel 50 litri al secondo, acqua 500 litri al second
 ## Translations
 - Castiga
 ## Designers
-- Castiga]]></credits>
+- Castiga, EDGE Gaming]]></credits>
 </modDesc>

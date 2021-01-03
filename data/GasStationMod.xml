@@ -27,8 +27,10 @@
     </dayNightObjects>
     <buyingStation stationName="$l10n_EDGENitro" appearsOnPDA="false" storageRadius="0" fillSoundIdentifier="fillSound01">
         <loadTrigger triggerNode="1" autoStart="true" infiniteCapacity="true"/>
-        <fillType name="diesel" priceScale="1.05" fillLitersPerSecond="50"/>
-        <fillType name="water" priceScale="0" fillLitersPerSecond="500"/>
+        <fillType name="DIESEL" priceScale="1.05" fillLitersPerSecond="75"/>
+        <fillType name="DEF" priceScale="1.05" fillLitersPerSecond="75"/>
+        <fillType name="WATER" priceScale="0" fillLitersPerSecond="500"/>
+        <fillType name="FUEL" priceScale="1.05" fillLitersPerSecond="75"/>
     </buyingStation>
     <animatedObjects>
         <animatedObject saveId="switch_01">
