@@ -12,7 +12,7 @@
         <it>Stazione di servizio Mod</it>
     </title>
     <description>
-        <en><![CDATA[A Stylish and sleek fuel punp for your farm, with underground Tank. You pay a 5% fee for delivery of fuel, upon purchase.
+        <en><![CDATA[A Stylish and sleek fuel pump for your farm, with underground Tank. You pay a 5% fee for delivery of fuel.
 Its also connected to water so no more driving into rivers and lakes to fill up your water tanks. Water you get here also is free!!
 
 -The building have automatic lighting.
@@ -179,11 +179,20 @@ Velocità di sovraccarico: diesel 75 litri al secondo, acqua 500 litri al second
         <text name="name_GasStationMod">
             <en>Fuel Pump</en>
             <de>Benzinpumpe</de>
-            <fr>pompe à carburant</fr>
-            <es>bomba de combustible</es>
+            <fr>Pompe à carburant</fr>
+            <es>Bomba de combustible</es>
             <ru>топливный насос</ru>
-            <pl>pompa paliwowa</pl>
-            <it>pompa di benzina</it>
+            <pl>Pompa paliwowa</pl>
+            <it>Pompa di benzina</it>
+        </text>
+        <text name="function_GasStationMod">
+            <en>A Stylish and sleek fuel pump for your farm, with underground Tank. You pay a 5% fee for delivery of fuel. It will also provide you with free water!</en>
+            <de>Wasser kann auch hier bekommen werden und es ist kostenlos!</de>
+            <fr>L'eau peut également être obtenue ici, et c'est gratuit!</fr>
+            <es>Aquí también se puede conseguir agua, ¡y es gratis!</es>
+            <ru>Воду тоже можно достать, причем бесплатно!</ru>
+            <pl>Można tu również dostać wodę i jest za darmo!</pl>
+            <it>L'acqua può anche essere presa qui ed è gratis!</it>
         </text>
     </l10n>
     <credits><![CDATA[
