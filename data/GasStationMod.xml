@@ -31,11 +31,11 @@
         <dayNightObject node="2|2|1" visibleDay="true" visibleNight="false"/>
     </dayNightObjects>
     <buyingStation stationName="$l10n_EDGENitro" appearsOnPDA="false" storageRadius="0" fillSoundIdentifier="fillSound01">
-        <loadTrigger triggerNode="0|4" autoStart="true" infiniteCapacity="true"/>
+        <loadTrigger triggerNode="0|4" infiniteCapacity="true"/>
         <fillType name="DIESEL" priceScale="1.05" fillLitersPerSecond="75"/>
-        <fillType name="DEF" priceScale="1.05" fillLitersPerSecond="75"/>
         <fillType name="WATER" priceScale="0" fillLitersPerSecond="500"/>
         <fillType name="FUEL" priceScale="1.05" fillLitersPerSecond="75"/>
+        <fillType name="DEF" priceScale="1.05" fillLitersPerSecond="75"/>
     </buyingStation>
     <animatedObjects>
         <animatedObject saveId="switch_01">
@@ -78,7 +78,7 @@
     </seasons>
     <tipOcclusionUpdateArea sizeX="2" sizeZ="7"/>
     <hotspots>
-        <hotspot name="$l10n_EDGENitro" fullName="$l10n_name_EDGENitro" imageName="GAS_STATION" hidable="true" linkNode="0|3" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="$l10n_EDGENitro" fullName="$l10n_name_EDGENitro" hidable="true" linkNode="0|3" imageFilename="data/textures/hud_Fuel.dds" showName="true" category="CATEGORY_TRIGGERS"/>
     </hotspots>
     <triggerMarkers>
         <triggerMarker node="4|0"/>
