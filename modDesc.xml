@@ -187,12 +187,12 @@ Velocità di sovraccarico: diesel 75 litri al secondo, acqua 500 litri al second
         </text>
         <text name="function_GasStationMod">
             <en>A Stylish and sleek fuel pump for your farm, with underground Tank. You pay a 5% fee for delivery of fuel. It will also provide you with free water!</en>
-            <de>Wasser kann auch hier bekommen werden und es ist kostenlos!</de>
-            <fr>L'eau peut également être obtenue ici, et c'est gratuit!</fr>
-            <es>Aquí también se puede conseguir agua, ¡y es gratis!</es>
-            <ru>Воду тоже можно достать, причем бесплатно!</ru>
-            <pl>Można tu również dostać wodę i jest za darmo!</pl>
-            <it>L'acqua può anche essere presa qui ed è gratis!</it>
+            <de>Eine stilvolle und elegante Kraftstoffpumpe für Ihren Betrieb mit unterirdischem Tank. Sie zahlen eine Gebühr von 5% für die Lieferung von Kraftstoff. Es wird Ihnen auch kostenloses Wasser geben!</de>
+            <fr>Une pompe à carburant élégante et élégante pour votre ferme, avec réservoir souterrain. Vous payez des frais de 5% pour la livraison de carburant. Il vous fournira également de l'eau gratuite!</fr>
+            <es>Una bomba de combustible elegante y elegante para su granja, con tanque subterráneo. Paga una tarifa del 5% por la entrega de combustible. ¡También te proporcionará agua gratis!</es>
+            <ru>Стильный и изящный топливный насос для вашей фермы с подземным баком. Вы платите 5% комиссию за доставку топлива. Он также предоставит вам бесплатную воду!</ru>
+            <pl>Stylowa i elegancka pompa paliwa dla Twojego gospodarstwa z podziemnym zbiornikiem. Za dostawę paliwa płacisz 5% opłaty. Zapewni Ci również darmową wodę!</pl>
+            <it>Una pompa del carburante elegante ed elegante per la tua fattoria, con serbatoio interrato. Paghi una commissione del 5% per la consegna del carburante. Ti fornirà anche acqua gratis!</it>
         </text>
     </l10n>
     <credits><![CDATA[

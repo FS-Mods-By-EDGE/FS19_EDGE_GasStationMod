@@ -58,6 +58,9 @@
                 </part>
             </animation>
             <controls triggerNode="0|1|0" posAction="ACTIVATE_HANDTOOL" posText="action_turnOnMarking" negText="action_turnOffMarking"/>
+            <sounds>
+                <moving file="$data/sounds/player/flashlight/flashlight.ogg" loops="1" linkNode="0|1|1|0" volume="0.8" radius="25" innerRadius="3" fadeOut="0.25"/>
+            </sounds>
         </animatedObject>
     </animatedObjects>
     <clearAreas>
@@ -75,7 +78,7 @@
     </seasons>
     <tipOcclusionUpdateArea sizeX="2" sizeZ="7"/>
     <hotspots>
-        <hotspot name="$l10n_name_EDGENitro" fullName="$l10n_name_EDGENitroFull" imageName="GAS_STATION" hidable="true" linkNode="0|3" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="$l10n_EDGENitro" fullName="$l10n_name_EDGENitro" imageName="GAS_STATION" hidable="true" linkNode="0|3" category="CATEGORY_TRIGGERS"/>
     </hotspots>
     <triggerMarkers>
         <triggerMarker node="4|0"/>
