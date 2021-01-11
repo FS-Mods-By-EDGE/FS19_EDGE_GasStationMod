@@ -78,7 +78,7 @@
     </seasons>
     <tipOcclusionUpdateArea sizeX="2" sizeZ="7"/>
     <hotspots>
-        <hotspot name="$l10n_EDGENitro" fullName="$l10n_name_EDGENitro" hidable="true" linkNode="0|3" imageFilename="data/textures/hud_Fuel.dds" showName="true" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="$l10n_EDGENitro" fullName="EDGE Nitro +" imageName="GAS_STATION" showName="true" textColor="0.776 0.667 0.341 1" hidable="true" linkNode="0|3" category="CATEGORY_TRIGGERS"/>
     </hotspots>
     <triggerMarkers>
         <triggerMarker node="4|0"/>

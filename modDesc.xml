@@ -177,9 +177,6 @@ We also need help with getting our translations better, as well as getting it tr
         <text name="EDGENitro">
             <en>EDGE Nitro +</en>
         </text>
-        <text name="name_EDGENitro">
-            <en>EDGE Nitro Plus</en>
-        </text>
         <text name="name_GasStationMod">
             <en>Fuel Pump</en>
             <de>Benzinpumpe</de>
