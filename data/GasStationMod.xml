@@ -8,7 +8,7 @@
             <function>$l10n_function_EDGELights</function>
         </functions>
         <specs>
-            <fillTypes>water diesel def fuel</fillTypes>
+            <fillTypes>water diesel</fillTypes>
         </specs>
         <image>store/store_GasStationMod.dds</image>
         <price>5000</price>
@@ -35,7 +35,6 @@
         <fillType name="DIESEL" priceScale="1.05" fillLitersPerSecond="75"/>
         <fillType name="WATER" priceScale="0" fillLitersPerSecond="500"/>
         <fillType name="FUEL" priceScale="1.05" fillLitersPerSecond="75"/>
-        <fillType name="DEF" priceScale="1.05" fillLitersPerSecond="75"/>
     </buyingStation>
     <animatedObjects>
         <animatedObject saveId="switch_01">
